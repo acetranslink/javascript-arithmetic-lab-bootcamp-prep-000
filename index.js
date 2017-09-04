@@ -1,4 +1,4 @@
 
-function add(){
-  (375, 1)
+function add(a, b){
+  console.log()
 }
