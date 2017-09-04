@@ -1,4 +1,3 @@
-
-function add(a, b){
-  console.log()
+function (a, b) {
+add (a, b)
 }
