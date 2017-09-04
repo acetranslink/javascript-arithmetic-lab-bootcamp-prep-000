@@ -6,5 +6,5 @@ beforeEach(function() {
 })
 
 function addab(){
-  a += b
+  add(a, b)
 }
